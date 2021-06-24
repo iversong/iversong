@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**iversong/iversong** is a ✨ web developer ✨
+I'm Iversong, a web developer.
 
 ### ✍️ Languages
 
@@ -24,4 +24,4 @@
 
 ### ❤️ GitHub Stats
 
-![Arvin XU's github stats](https://github-readme-stats.vercel.app/api?username=arvinxx&show_icons=true)
+![Arvin XU's github stats](https://github-readme-stats.vercel.app/api?username=iversong&show_icons=true)
